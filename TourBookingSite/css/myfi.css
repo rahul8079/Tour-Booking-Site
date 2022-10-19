@@ -1,0 +1,99 @@
+body{
+background-color:yellow;
+background-image:url(../images/f.jpg);
+background-size:cover;
+}
+.a{
+color:white;
+background-color:gray;
+padding:20px;
+text-align:center;
+font-family:verdana;
+font-size:25px;
+position:-webkit-sticky;
+position:sticky;
+top:0;
+border:3px solid white;
+border-bottom-style:none;
+border-left-style:none;
+border-right-style:none;
+max-width:100%;
+}
+p{
+	color:red;
+	height:100%;
+}
+.home{
+	position:absolute;
+	color:white;
+	background-color:gray;
+	width:60px;
+	height:50px;
+	
+	text-align:center;
+	padding-top:20px;
+	padding-right:10px;
+	font-weight:bold;
+	cursor:pointer;
+}
+.gallery{
+	position:absolute;
+color:white;
+background-color:gray;
+margin-left:66px;
+width:60px;
+height:50px;
+padding-top:20px;
+padding-right:10px;
+font-weight:bold;
+text-align:center;
+cursor:pointer;
+}
+.product{
+	position:absolute;
+color:white;
+background-color:gray;
+width:70px;
+height:50px;
+margin-left:130px;
+padding-left:5px;
+padding-top:20px;
+padding-right:20px;
+font-weight:bold;
+text-align:center;
+cursor:pointer;
+}
+.about{
+	position:absolute;
+color:white;
+background-color:gray;
+height:50px;
+width:60px;
+margin-left:220px;
+padding-top:20px;
+padding-right:10px;
+font-weight:bold;
+text-align:center;
+cursor:pointer;
+}
+.home:hover{
+	background-color:white;
+	color:black;
+	border-right-style:none;
+}
+.gallery:hover{
+	background-color:white;
+	color:black;
+}
+.product:hover{
+	background-color:white;
+	color:black;
+}
+.about:hover{
+	background-color:white;
+	color:black;
+}
+img{
+	margin:100px;
+	margin-left:550px;
+}
