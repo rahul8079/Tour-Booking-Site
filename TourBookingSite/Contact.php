@@ -78,19 +78,19 @@ if(isset($message)){
       <div class="box" data-aos="zoom-in">
          <i class="fas fa-phone"></i>
          <h3>phone</h3>
-         <p>+123-456-7890</p>
+         <p>+918079030422</p>
       </div>
 
       <div class="box" data-aos="zoom-in">
          <i class="fas fa-envelope"></i>
          <h3>email</h3>
-         <p>sanashaikh@gmail.com</p>
+         <p>rahuljainktl2@gmail.com</p>
       </div>
 
       <div class="box" data-aos="zoom-in">
          <i class="fas fa-map-marker-alt"></i>
          <h3>address</h3>
-         <p>mumbai, india - 400104</p>
+         <p>Rajasthan, india - 400104</p>
       </div>
 
    </div>
